@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee>
+        <FirstName>Clark</FirstName>
+        <LastName>Kent</LastName>
+        <NickName>SuperMan</NickName>
+        <Age>30</Age>
+        <Salary>1000</Salary>
+    </Employee>
+    <Employee>
+        <FirstName>Bruce</FirstName>
+        <LastName>Wills</LastName>
+        <NickName>Batman</NickName>
+        <Age>35</Age>
+        <Salary>4000</Salary>
+    </Employee>
+    <Employee>
+        <FirstName>Peter</FirstName>
+        <LastName>Parker</LastName>
+        <NickName>SpiderMan</NickName>
+        <Age>35</Age>
+        <Salary>10</Salary>
+    </Employee>
+    <Employee>
+        <FirstName>Tony</FirstName>
+        <LastName>Stark</LastName>
+        <NickName>IronMan</NickName>
+        <Age>35</Age>
+        <Salary>400000</Salary>
+    </Employee>
+</Employees>
